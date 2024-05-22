@@ -3,7 +3,7 @@
 Hi! I’m Saran Teja. A front-end wizard crafting vibrant, interactive web experiences.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,python)](https://skillicons.dev)
 
 
 ## Socials
