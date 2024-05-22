@@ -1,6 +1,8 @@
 # Hi! My name is Saran teja 😁
 
-Hi! I’m Saran Teja. A front-end wizard crafting vibrant, interactive web experiences.
+Sure, here's an enhanced version with emojis:
+
+Hi! I’m Saran Teja. 🧙‍♂️✨ A front-end wizard crafting vibrant, interactive web experiences. 🌐🎨
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,python)](https://skillicons.dev)
